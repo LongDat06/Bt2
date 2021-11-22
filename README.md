@@ -7,7 +7,7 @@ Tạo repo mới
 
 Xoá remote git@github.com:noothaithinh/scs.baitap.2.git
 
-Add remote
+Add remote https://github.com/LongDat06/Bt2.git
 
 push master , develop
 
